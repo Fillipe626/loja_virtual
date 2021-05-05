@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909226776590",
+    "project_id": "lojaflutter-eb9a4",
+    "storage_bucket": "lojaflutter-eb9a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909226776590:android:4260440d37a3c7059d845f",
+        "android_client_info": {
+          "package_name": "fillipe.com.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909226776590-d6iilo867che7dr6a6gqps01hssa5sii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpV7M5u9rC7ZekySx8M7mXeHQcGko0yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909226776590-d6iilo867che7dr6a6gqps01hssa5sii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
